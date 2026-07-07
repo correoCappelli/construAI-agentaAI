@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+chromadb==0.5.5
+python-dotenv==1.0.1
+pandas==2.2.2
+tiktoken==0.7.0
+streamlit==1.36.0
+reportlab==4.2.2
+matplotlib==3.9.1
+seaborn==0.13.2
+langchain-ollama
+unstructured[PDF]==0.15.9
+io
+numpy
