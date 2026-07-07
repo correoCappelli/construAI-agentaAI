@@ -1,9 +1,2 @@
-libheif-dev
-libheif1
-libde265-0
-libx265-215
-libaom3
-libdav1d7
-zlib1g-dev
-build-essential
 libffi-dev
+build-essential

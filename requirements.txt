@@ -9,7 +9,7 @@ streamlit==1.36.0
 reportlab==4.2.2
 matplotlib==3.9.1
 seaborn==0.13.2
-unstructured[PDF]==0.15.9
+unstructured==0.15.9
 pip>=24.0
 setuptools>=77.0.0
 wheel
