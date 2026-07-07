@@ -9,4 +9,5 @@ reportlab==4.2.2
 matplotlib==3.9.1
 seaborn==0.13.2
 unstructured[PDF]==0.15.9
+zstandard==0.22.0
 numpy
