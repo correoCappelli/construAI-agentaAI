@@ -11,5 +11,4 @@ matplotlib==3.9.1
 seaborn==0.13.2
 langchain-ollama
 unstructured[PDF]==0.15.9
-io
 numpy
