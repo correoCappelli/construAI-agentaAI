@@ -43,7 +43,7 @@ Este proyecto es una aplicación desplegada en **Streamlit** que implementa un a
 ├── contenido/const_data.csv   # archivo CSV con los datos de facturacion
 ├── requirements.txt      # Dependencias del proyecto
 └── README.md             # Este archivo
-
+```
 
 ## 📑 Ejemplo de archivo CSV
 
@@ -58,14 +58,13 @@ INV-2026-003,Rivera Construction,PRJ-2026-09,2026-07-10,2500.00,Check,Interior f
 INV-2026-004,López Renovations,PRJ-2026-10,2026-07-12,1200.00,Bank Transfer,Painting,Client asked for color change,4000.00,2800.00
 INV-2026-005,Perez & Co,PRJ-2026-11,2026-07-15,3000.00,Credit Card,Electrical wiring,Inspection scheduled next week,7000.00,4000.00
 FAC-001,FAMCA,PRESUPUESTO 1,2026-07-15,3000.00,Credit Card,Electrical wiring,ventanas newbery,7000.00,4000.00
-
+```
 
 ## ⚠️ Importante sobre los nombres de las columnas
 
 - Los nombres de las columnas **deben mantenerse tal cual** para que el agente pueda interpretar correctamente los datos.  
 - Si decides cambiarlos (por ejemplo, simplificarlos a `invoice`, `client`, `project`, etc.), deberás modificar también las partes del código que hacen referencia a esas columnas.
 
----
 
 ## 🐍 Ejemplo de renombrado en pandas
 
@@ -78,7 +77,7 @@ df.columns = [
     "invoice", "client", "project", "date", "amount",
     "method", "description", "observation", "total_value", "balance"
 ]
-
+```
 
 ## 🔧 Ajustes necesarios en el código
 
