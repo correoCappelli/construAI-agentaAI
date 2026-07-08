@@ -2,6 +2,13 @@
 
 Este proyecto es una aplicación desplegada en **Streamlit** que implementa un agente **RAG (Retrieval-Augmented Generation)** con capacidades avanzadas de procesamiento de PDFs y CSVs. Está potenciado por **LangChain**, **ChromaDB**, técnicas de **Semantic Chunking** y modelos de lenguaje de **OpenAI**.
 
+## 🔗 URL de la aplicación en Streamlit
+
+La aplicación está desplegada en **Streamlit Cloud** y se puede acceder en el siguiente enlace:
+
+[Acceder a la aplicación](https://construai-agentaai-ekufblyvbb7wtghcbaitjd.streamlit.app/)
+
+
 ---
 
 ## 🚀 Funcionalidades principales
