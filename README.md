@@ -98,16 +98,14 @@ df.columns = [
 ## 📸 Capturas de pantalla
 
 ### Pantalla principal
-*(Aquí puedes añadir una imagen mostrando la interfaz inicial de la app)*
+imagenes/Screenshot from 2026-07-08 15-09-40.png
 
 ### Subida de presupuestos PDF
-*(Captura del formulario para ingresar Cliente, Edificio y Número de Presupuesto)*
+imagenes/Screenshot from 2026-07-08 15-10-21.png
 
 ### Consulta de CSV con facturas y pagos
-*(Ejemplo de una pregunta realizada al agente y la respuesta obtenida)*
+imagenes/Screenshot from 2026-07-08 15-11-44.png
 
-### Resultados visuales
-*(Gráficos generados con Matplotlib sobre pagos y facturación)*
 
 ---
 
