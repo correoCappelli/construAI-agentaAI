@@ -3,6 +3,7 @@ langchain
 matplotlib
 langchain-openai==0.1.17
 langchain-community==0.2.12
+langchain-experimental==0.0.62
 chromadb==0.5.5
 python-dotenv==1.0.1
 pandas==2.2.2
