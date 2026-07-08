@@ -95,6 +95,11 @@ df.columns = [
 
 ---
 
+## 📸 VIDEO DE MUESTRA
+
+
+[Ver demo en video](imagenes/streamlit-app-2026-07-08-15-07-34.webm)
+
 ## 📸 Capturas de pantalla
 
 ### Pantalla principal
