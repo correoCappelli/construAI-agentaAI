@@ -1,5 +1,6 @@
 streamlit==1.36.0
 langchain
+matplotlib
 langchain-openai==0.1.17
 langchain-community==0.2.12
 chromadb==0.5.5
