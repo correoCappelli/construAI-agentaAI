@@ -98,13 +98,14 @@ df.columns = [
 ## 📸 Capturas de pantalla
 
 ### Pantalla principal
-imagenes/Screenshot from 2026-07-08 15-09-40.png
+![Pantalla principal](imagenes/Screenshot%20from%202026-07-08%2015-09-40.png)
 
 ### Subida de presupuestos PDF
-imagenes/Screenshot from 2026-07-08 15-10-21.png
+![Subida de presupuestos PDF](imagenes/Screenshot%20from%202026-07-08%2015-10-21.png)
+
 
 ### Consulta de CSV con facturas y pagos
-imagenes/Screenshot from 2026-07-08 15-11-44.png
+![Consulta de CSV](imagenes/Screenshot%20from%202026-07-08%2015-11-44.png)
 
 
 ---
